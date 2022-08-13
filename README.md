@@ -1,4 +1,5 @@
 ## Task Tracker
+This is a part Traversy Media Vue.js crash course. Building a Tast Tracker application with CRUD functionalities.
 
 ## Project setup
 ```
